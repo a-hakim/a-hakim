@@ -19,7 +19,19 @@ I’m a software engineer passionate about **Web-based Virtual Reality (WebVR)**
 
 - **Languages:** JavaScript, PHP, Python, HTML/CSS
 - **Frameworks & Tools:** Laravel, MySQL, TailwindCSS, Livewire
-- **Specialties:** Aframe, WebXR, WebAR, VR/AR Development
+- **Specialties:** AFrame, WebXR, WebAR, VR/AR Development
+
+---
+
+## 🛠 Open Source Projects
+
+I'm also passionate about contributing to the open-source community! Here are some projects I've developed and maintain:
+
+- **[senangwebs-animations](https://www.npmjs.com/package/senangwebs-animations)**: Lightweight library that enables smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
+- **[senangwebs-loading](https://www.npmjs.com/package/senangwebs-loading)**: Lightweight JavaScript library providing customizable loading screens for web applications.
+- **[senangwebs-chatbot](https://www.npmjs.com/package/senangwebs-chatbot)**: Simple JS library for integrating a customizable chatbot into your website.
+- **[senangwebs-modals](https://www.npmjs.com/package/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
+- **[senangwebs-buy](https://www.npmjs.com/package/senangwebs-buy)**: Lightweight JavaScript library enabling easy implementation of e-commerce functionality through HTML attributes.
 
 ---
 
@@ -38,7 +50,3 @@ Let’s chat about WebVR, AR, AI, or even Mechanical Engineering!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ahakimnoor)
 - 📧 [Email me!](mailto:a.hakim.solution@gmail.com)
-
----
-
-### "Turning ideas into immersive digital realities, one line of code at a time." 🌟

@@ -15,11 +15,13 @@ I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** a
 ---
 ## 🛠 Open Source Projects
 I'm also passionate about contributing to the open-source community! Here are some projects I've developed and maintain:
-- **[senangwebs-animations](https://www.npmjs.com/package/senangwebs-animations)**: Lightweight library that enables smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
-- **[senangwebs-buy](https://www.npmjs.com/package/senangwebs-buy)**: Lightweight JavaScript library enabling easy implementation of e-commerce functionality through HTML attributes.
-- **[senangwebs-chatbot](https://www.npmjs.com/package/senangwebs-chatbot)**: Simple JS library for integrating a customizable chatbot into your website.
-- **[senangwebs-loading](https://www.npmjs.com/package/senangwebs-loading)**: Lightweight JavaScript library providing customizable loading screens for web applications.
-- **[senangwebs-modals](https://www.npmjs.com/package/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
+- **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
+- **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of e-commerce functionality through HTML attributes.
+- **[senangwebs-chatbot](https://github.com/a-hakim/senangwebs-chatbot)**: Integrating a customizable chatbot into your website.
+- **[senangwebs-loading](https://github.com/a-hakim/senangwebs-loading)**: Customizable loading screens for web applications.
+- **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
+- **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
+- **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries (Animations, Buy, Chatbot, Loading, Modals & Notices).
 ---
 ## 🚀 Personal Products
 - **[SenangStart](https://senangstart.com/)** - UI Components Library

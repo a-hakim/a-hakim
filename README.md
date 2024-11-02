@@ -9,8 +9,8 @@ I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** a
 - 🏆 Winner of multiple awards in innovation and tech 💡
 ---
 ## 🔨 Tech Stack
-- **Languages:** JavaScript, PHP, Python, HTML/CSS
-- **Frameworks & Tools:** Laravel, MySQL, TailwindCSS, Livewire
+- **Languages:** JavaScript, PHP, Java, HTML/CSS
+- **Frameworks & Tools:** Laravel, MySQL, TailwindCSS, Livewire, AlpineJS
 - **Specialties:** AFrame, WebXR, WebAR, VR/AR Development
 ---
 ## 🛠 Open Source Projects
@@ -18,6 +18,7 @@ I'm also passionate about contributing to the open-source community! Here are so
 - **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
 - **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of e-commerce functionality through HTML attributes.
 - **[senangwebs-chatbot](https://github.com/a-hakim/senangwebs-chatbot)**: Integrating a customizable chatbot into your website.
+- **[senangwebs-gallery](https://github.com/a-hakim/senangwebs-gallery)**: Modern, responsive modal image gallery with smooth transitions and intuitive navigation.
 - **[senangwebs-loading](https://github.com/a-hakim/senangwebs-loading)**: Customizable loading screens for web applications.
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
@@ -29,22 +30,22 @@ I'm also passionate about contributing to the open-source community! Here are so
   - Pre-built, customizable components for stunning user interfaces
   - Streamlined design workflow solutions
 
-- **[QHeat](https://www.qheatapp.com/)** - Heat Transfer App
-  - Modern interface for Mechanical Engineering students
-  - Automated workflows for complex problem-solving
-  - Equation manipulation capabilities
-  - Preset conductivity values for quick calculations
+- **[AlamXR](https://www.alamxr.com/)** - Immersive Learning Platform
+  - Browser-based VR/AR educational modules
+  - Cross-device compatibility
+  - Wide range of training experiences
+  - Accessible immersive learning solutions
 
 - **[KopiPost](https://www.kopipost.com/)** - Business Planning Tools
   - Comprehensive suite for business strategy development
   - Tools for crafting winning business plans
   - In-depth analysis capabilities
 
-- **[AlamXR](https://www.alamxr.com/)** - Immersive Learning Platform
-  - Browser-based VR/AR educational modules
-  - Cross-device compatibility
-  - Wide range of training experiences
-  - Accessible immersive learning solutions
+- **[QHeat](https://www.qheatapp.com/)** - Heat Transfer App
+  - Modern interface for Mechanical Engineering students
+  - Automated workflows for complex problem-solving
+  - Equation manipulation capabilities
+  - Preset conductivity values for quick calculations
 ---
 ## 🏆 Achievements
 - 🥇 **Gold Award** @ Research Innovations Symposium (RISE) 2015

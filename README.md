@@ -2,7 +2,7 @@
 **WebXR/VR/AR Enthusiast** | **Full-Stack Dev** | **PaaS Builder**
 ---
 ## 👨‍💻 About Me
-I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**, I've had the privilege of transitioning to the tech world where I get to work on cutting-edge projects 🚀.
+I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**.
 - 🧑‍🏫 **2x TEDx Speaker** (Yep, you read that right!)
 - 🎮 **NASA Space Apps Challenge Instructor** (Space + Code = Fun!)
 - 🛠 Founder of [SenangWebs](https://senangwebs.com) & [KadKahwinDigital.my](https://kadkahwindigital.my) — building awesome digital experiences for everyone!
@@ -24,7 +24,7 @@ I'm also passionate about contributing to the open-source community! Here are so
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
 - **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries (Animations, Buy, Chatbot, Loading, Modals & Notices).
 ---
-## 🚀 Personal Products
+## 🚀 Products
 - **[SenangStart](https://senangstart.com/)** - UI Components Library
   - Comprehensive Tailwind CSS component library for web designers
   - Pre-built, customizable components for stunning user interfaces

@@ -15,6 +15,7 @@ I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** a
 ---
 ## 🛠 Open Source Projects
 I'm also passionate about contributing to the open-source community! Here are some projects I've developed and maintain:
+- **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
 - **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
 - **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of e-commerce functionality through HTML attributes.
 - **[senangwebs-chatbot](https://github.com/a-hakim/senangwebs-chatbot)**: Integrating a customizable chatbot into your website.

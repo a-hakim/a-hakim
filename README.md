@@ -3,8 +3,8 @@
 ---
 ## 👨‍💻 About Me
 I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**.
-- 🧑‍🏫 **2x TEDx Speaker** (Yep, you read that right!)
-- 🎮 **NASA Space Apps Challenge Instructor** (Space + Code = Fun!)
+- 🧑‍🏫 2x TEDx Speaker
+- 🎮 NASA Space Apps Challenge Instructor
 - 🛠 Founder of [SenangWebs](https://senangwebs.com) & [KadKahwinDigital.my](https://kadkahwindigital.my) — building awesome digital experiences for everyone!
 - 🏆 Winner of multiple awards in innovation and tech 💡
 ---

@@ -3,9 +3,9 @@
 ---
 ## 👨‍💻 About Me
 I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**.
-- 🧑‍🏫 2x TEDx Speaker
-- 🎮 NASA Space Apps Challenge Instructor
 - 🛠 Founder of [SenangWebs](https://senangwebs.com) & [KadKahwinDigital.my](https://kadkahwindigital.my) — building awesome digital experiences for everyone!
+- 🎮 NASA Space Apps Challenge Instructor
+- 🧑‍🏫 2x TEDx Speaker
 - 🏆 Winner of multiple awards in innovation and tech 💡
 ---
 ## 🔨 Tech Stack
@@ -14,8 +14,8 @@ I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** a
 - **Specialties:** AFrame, WebXR, WebAR, VR/AR Development
 ---
 ## 🛠 Open Source Projects
-I'm also passionate about contributing to the open-source community! Here are some projects I've developed and maintain:
-- **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
+Here are some projects I've developed and maintain:
+### Web Library
 - **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
 - **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of e-commerce functionality through HTML attributes.
 - **[senangwebs-chatbot](https://github.com/a-hakim/senangwebs-chatbot)**: Integrating a customizable chatbot into your website.
@@ -25,7 +25,9 @@ I'm also passionate about contributing to the open-source community! Here are so
 - **[senangwebs-loading](https://github.com/a-hakim/senangwebs-loading)**: Customizable loading screens for web applications.
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
-- **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries (Animations, Buy, Chatbot, Loading, Modals & Notices).
+### Custom Project
+- **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
+- **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries.
 ---
 ## 🚀 Products
 - **[SenangStart](https://senangstart.com/)** - UI Components Library

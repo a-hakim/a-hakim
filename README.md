@@ -29,7 +29,7 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
 - **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries.
 ---
-## 🧑‍💻 Platforms I maintaining
+## 🧑‍💻 Platforms I am Maintaining
 - **[SenangWebs](https://use.senangwebs.com/)** - Convert idea into website
   - Create website, blog, or AR/VR metaverse with ease in one platform.
 

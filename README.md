@@ -3,17 +3,17 @@
 ---
 ## 👨‍💻 About Me
 I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**.
-- 🛠 Founder of [SenangWebs](https://senangwebs.com) & [KadKahwinDigital.my](https://kadkahwindigital.my) — building awesome digital experiences for everyone!
+- 🛠 Founder of [SenangWebs](https://use.senangwebs.com/) & [KadKahwinDigital.my](https://hub.kadkahwindigital.my/)
+- 🏆 Winner of multiple awards in innovation and tech 💡
 - 🎮 NASA Space Apps Challenge Instructor
 - 🧑‍🏫 2x TEDx Speaker
-- 🏆 Winner of multiple awards in innovation and tech 💡
 ---
 ## 🔨 Tech Stack
 - **Languages:** JavaScript, PHP, Java, HTML/CSS
 - **Frameworks & Tools:** Laravel, MySQL, TailwindCSS, Livewire, AlpineJS
 - **Specialties:** AFrame, WebXR, WebAR, VR/AR Development
 ---
-## 🛠 Open Source Projects
+## 🛠 Open Source
 Here are some projects I've developed and maintain:
 ### Web Library
 - **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
@@ -28,6 +28,13 @@ Here are some projects I've developed and maintain:
 ### Custom Project
 - **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
 - **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries.
+---
+## 🧑‍💻 Platforms I maintaining
+- **[SenangWebs](https://use.senangwebs.com/)** - Convert idea into website
+  - Create website, blog, or AR/VR metaverse with ease in one platform.
+
+- **[KadKahwinDigital.my](https://hub.kadkahwindigital.my/)** - E-card wedding invitation
+  - Sending out invitations is as easy as a few clicks.
 ---
 ## 🚀 Products
 - **[SenangStart](https://senangstart.com/)** - UI Components Library

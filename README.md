@@ -9,9 +9,9 @@ I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** a
 - 🧑‍🏫 2x TEDx Speaker
 ---
 ## 🔨 Tech Stack
-- **Languages:** JavaScript, PHP, Java, HTML/CSS
-- **Frameworks & Tools:** Laravel, MySQL, TailwindCSS, Livewire, AlpineJS
-- **Specialties:** AFrame, WebXR, WebAR, VR/AR Development
+- **Languages:** JavaScript, PHP, Java, HTML, CSS
+- **Frameworks & Tools:** Laravel, MySQL, TailwindCSS, Livewire, AlpineJS, React
+- **Specialties:** Web Dev, WebXR, Engineering, Game Dev
 ---
 ## 🛠 Open Source
 Here are some projects I've developed and maintain:

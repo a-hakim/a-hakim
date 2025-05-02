@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Hakim Noor!
+# 👋 Hello, World! I'm A.Hakim Noor!
 **WebXR/VR/AR Enthusiast** | **Full-Stack Dev** | **PaaS Builder**
 ---
 ## 👨‍💻 About Me
@@ -42,24 +42,21 @@ Here are some projects I've developed and maintain:
 - **[SenangStart](https://senangstart.com/)** - UI Components Library
   - Comprehensive Tailwind CSS component library for web designers
   - Pre-built, customizable components for stunning user interfaces
-  - Streamlined design workflow solutions
 
 - **[AlamXR](https://www.alamxr.com/)** - Immersive Learning Platform
   - Browser-based VR/AR educational modules
-  - Cross-device compatibility
   - Wide range of training experiences
   - Accessible immersive learning solutions
 
 - **[KopiPost](https://www.kopipost.com/)** - Business Planning Tools
   - Comprehensive suite for business strategy development
   - Tools for crafting winning business plans
-  - In-depth analysis capabilities
+  - Variety of analysis documents
 
 - **[QHeat](https://www.qheatapp.com/)** - Heat Transfer App
-  - Modern interface for Mechanical Engineering students
-  - Automated workflows for complex problem-solving
+  - Calculation workflows for complex problem-solving
   - Equation manipulation capabilities
-  - Preset conductivity values for quick calculations
+  - Preset values for quick calculations
 ---
 ## 🏆 Achievements
 - 🥇 **Gold Award** @ Research Innovations Symposium (RISE) 2015

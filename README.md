@@ -26,6 +26,7 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
 ### Game
+- **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++
 - **[text-art-world-web](https://github.com/a-hakim/text-art-world-web)**: React Remake based on the original C++ (2015)
 ### Custom Project
 - **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.

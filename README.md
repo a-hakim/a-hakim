@@ -22,7 +22,7 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-epoch](https://github.com/a-hakim/senangwebs-epoch)**: Easy creation dynamic countdown timers and time displays.
 - **[senangwebs-frame](https://github.com/a-hakim/senangwebs-frame)**: Modern & responsive slider experience (carousel) library.
 - **[senangwebs-gallery](https://github.com/a-hakim/senangwebs-gallery)**: Modern & responsive modal image (lightbox) library.
-- **[senangwebs-jot](https://github.com/a-hakim/senangwebs-jot)**: Simple JavaScript tool that lets you copy text from HTML elements with a single click.
+- **[senangwebs-jot](https://github.com/a-hakim/senangwebs-jot)**: Simple tool that lets you copy text from HTML elements with a single click.
 - **[senangwebs-loading](https://github.com/a-hakim/senangwebs-loading)**: Customizable loading screens for web applications.
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.

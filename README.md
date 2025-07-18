@@ -1,7 +1,7 @@
-# 👋 Hello, World! I'm A.Hakim Noor!
+# Hi!👋 I am A.Hakim
+
 **WebXR/VR/AR Enthusiast** | **Full-Stack Dev** | **PaaS Builder**
----
-## 👨‍💻 About Me
+
 I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**.
 - 🛠 Founder of [SenangWebs](https://use.senangwebs.com/) & [KadKahwinDigital.my](https://hub.kadkahwindigital.my/)
 - 🏆 Winner of multiple awards in innovation and tech 💡
@@ -27,6 +27,9 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
 - **[senangwebs-one](https://github.com/a-hakim/senangwebs-one)**: A web-based code editor and live previewer, inspired by Glitch and CodePen.
+- **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
+### Plugin
+- **[grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)**: GrapesJS plugin for editing component code using Monaco editor.
 - **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
 ### Game
 - **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++

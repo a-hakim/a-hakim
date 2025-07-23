@@ -27,15 +27,14 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
 - **[senangwebs-one](https://github.com/a-hakim/senangwebs-one)**: A web-based code editor and live previewer, inspired by Glitch and CodePen.
-- **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
-### Plugin
-- **[grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)**: GrapesJS plugin for editing component code using Monaco editor.
+- **[senangwebs-quiz](https://github.com/a-hakim/senangwebs-quiz)**: Creating interactive quizzes with multiple question types, configurable feedback modes, and built-in UI generation.
 - **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
 ### Game
 - **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++
 - **[text-art-world-web](https://github.com/a-hakim/text-art-world-web)**: React Remake based on the original C++ (2015)
 ### Custom Project
 - **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
+- **[grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)**: GrapesJS plugin for editing component code using Monaco editor.
 - **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries.
 ---
 ## 🧑‍💻 Platforms I am Maintaining

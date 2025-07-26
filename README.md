@@ -28,6 +28,7 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
 - **[senangwebs-one](https://github.com/a-hakim/senangwebs-one)**: A web-based code editor and live previewer, inspired by Glitch and CodePen.
 - **[senangwebs-quiz](https://github.com/a-hakim/senangwebs-quiz)**: Creating interactive quizzes with multiple question types, configurable feedback modes, and built-in UI generation.
+- **[senangwebs-story](https://github.com/a-hakim/senangwebs-story)**: Creating interactive, visual novel-style story experiences with typewriter effects and character dialogue management.
 - **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
 ### Game
 - **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++

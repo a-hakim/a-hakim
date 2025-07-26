@@ -34,8 +34,8 @@ Here are some projects I've developed and maintain:
 - **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++
 - **[text-art-world-web](https://github.com/a-hakim/text-art-world-web)**: React Remake based on the original C++ (2015)
 ### Custom Project
-- **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
 - **[grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)**: GrapesJS plugin for editing component code using Monaco editor.
+- **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
 - **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries.
 ---
 ## 🧑‍💻 Platforms I am Maintaining

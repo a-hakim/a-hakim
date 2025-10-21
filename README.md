@@ -35,6 +35,7 @@ Here are some projects I've developed and maintain:
 - **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++
 - **[text-art-world-web](https://github.com/a-hakim/text-art-world-web)**: React Remake based on the original C++ (2015)
 ### Custom Project
+- **[grapesjs-alpinejs](https://github.com/a-hakim/grapesjs-alpinejs)**: GrapesJS plugin to integrates Alpine.js directives, allowing reactive components.
 - **[grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)**: GrapesJS plugin for editing component code using Monaco editor.
 - **[grapesjs-script-monaco-editor](https://github.com/a-hakim/grapesjs-script-monaco-editor)**: GrapesJS plugin to edit or attach script to selected component
 - **[grapesjs-custom-code-monaco-editor](https://github.com/a-hakim/grapesjs-custom-code-monaco-editor)**: GrapesJS plugin for component embed custom code using Monaco editor

@@ -19,15 +19,20 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements as they enter the viewport during scrolling.
 - **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of e-commerce functionality through HTML attributes.
 - **[senangwebs-chatbot](https://github.com/a-hakim/senangwebs-chatbot)**: Integrating a customizable chatbot into your website.
+- **[senangwebs-deck](https://github.com/a-hakim/senangwebs-deck)**: A modern, lightweight JavaScript library for creating beautiful web-based presentations with multiple input formats (HTML, Markdown, JSON).
 - **[senangwebs-epoch](https://github.com/a-hakim/senangwebs-epoch)**: Easy creation dynamic countdown timers and time displays.
 - **[senangwebs-frame](https://github.com/a-hakim/senangwebs-frame)**: Modern & responsive slider experience (carousel) library.
 - **[senangwebs-gallery](https://github.com/a-hakim/senangwebs-gallery)**: Modern & responsive modal image (lightbox) library.
+- **[senangwebs-index](https://github.com/a-hakim/senangwebs-index)**: A lightweight JavaScript library for transforming JSON data into searchable, paginated HTML views.
 - **[senangwebs-jot](https://github.com/a-hakim/senangwebs-jot)**: Simple tool that lets you copy text from HTML elements with a single click.
 - **[senangwebs-loading](https://github.com/a-hakim/senangwebs-loading)**: Customizable loading screens for web applications.
 - **[senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)**: Easy creation and customization of modal dialogs using HTML data attributes.
 - **[senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)**: Replaces native browser dialogs (alert, confirm, prompt) with customizable, modern-looking notifications.
 - **[senangwebs-one](https://github.com/a-hakim/senangwebs-one)**: A web-based code editor and live previewer, inspired by Glitch and CodePen.
+- **[senangwebs-photobooth](https://github.com/a-hakim/senangwebs-photobooth)**: A lightweight and easy-to-use JavaScript library for client-side photo editing.
 - **[senangwebs-quiz](https://github.com/a-hakim/senangwebs-quiz)**: Creating interactive quizzes with multiple question types, configurable feedback modes, and built-in UI generation.
+- **[senangwebs-tour](https://github.com/a-hakim/senangwebs-tour)**: A powerful, data-driven 360° virtual tour system for A-Frame WebVR with a visual editor and standalone viewer.
+- **[senangwebs-unfold](https://github.com/a-hakim/senangwebs-unfold)**: An advanced, interactive JavaScript library for visualizing and editing JSON data.
 - **[senangwebs-story](https://github.com/a-hakim/senangwebs-story)**: Creating interactive, visual novel-style story experiences with typewriter effects and character dialogue management.
 - **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
 - **[senangwebs-whiteboard](https://github.com/a-hakim/senangwebs-whiteboard)**: A powerful, client-side JavaScript drawing library for creating digital whiteboards and vector drawings.

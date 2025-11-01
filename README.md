@@ -37,13 +37,13 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-verse](https://github.com/a-hakim/senangwebs-verse)**: A-Frame component for creating 3rd person player controls in WebXR and 3D web scenes.
 - **[senangwebs-whiteboard](https://github.com/a-hakim/senangwebs-whiteboard)**: A powerful, client-side JavaScript drawing library for creating digital whiteboards and vector drawings.
 ### Game
-- **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++
-- **[text-art-world-web](https://github.com/a-hakim/text-art-world-web)**: React Remake based on the original C++ (2015)
+- **[text-art-world](https://github.com/a-hakim/text-art-world)**: Simple text based game made with C++.
+- **[text-art-world-web](https://github.com/a-hakim/text-art-world-web)**: React Remake based on the original C++ (2015).
 ### Plugin
 - **[grapesjs-alpinejs](https://github.com/a-hakim/grapesjs-alpinejs)**: GrapesJS plugin to integrates Alpine.js directives, allowing reactive components.
 - **[grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)**: GrapesJS plugin for editing component code using Monaco editor.
-- **[grapesjs-script-monaco-editor](https://github.com/a-hakim/grapesjs-script-monaco-editor)**: GrapesJS plugin to edit or attach script to selected component
-- **[grapesjs-custom-code-monaco-editor](https://github.com/a-hakim/grapesjs-custom-code-monaco-editor)**: GrapesJS plugin for component embed custom code using Monaco editor
+- **[grapesjs-script-monaco-editor](https://github.com/a-hakim/grapesjs-script-monaco-editor)**: GrapesJS plugin to edit or attach script to selected component.
+- **[grapesjs-custom-code-monaco-editor](https://github.com/a-hakim/grapesjs-custom-code-monaco-editor)**: GrapesJS plugin for component embed custom code using Monaco editor.
 - **[senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)**: Customized webverse editor for SenangWebs based on A-Frame inspector.
 ### Custom Project
 - **[senangwebs-store](https://github.com/a-hakim/senangwebs-store)**: Demo of utilizing SenangWebs Libraries.

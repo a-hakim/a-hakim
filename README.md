@@ -79,12 +79,6 @@ Here are some projects I've developed and maintain:
   - Equation manipulation capabilities
   - Preset values for quick calculations
 ---
-## 🏆 Achievements
-- 🥇 **Gold Award** @ Research Innovations Symposium (RISE) 2015
-- 🥈 **1st Runner-up** @ Inclusive Innovation Challenge 2017
-- 🏅 **Best Pitch Award** @ FLY 2018
-- 🏆 Many more awards for **innovation & entrepreneurship**!
----
 ## 💬 Connect With Me
 Let's chat about WebVR, AR, AI, or even Mechanical Engineering!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ahakimnoor)

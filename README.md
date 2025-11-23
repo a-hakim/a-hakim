@@ -24,7 +24,7 @@ Here are some projects I've developed and maintain:
 - **[senangwebs-frame](https://github.com/a-hakim/senangwebs-frame)**: Modern & responsive slider experience (carousel) library.
 - **[senangwebs-gallery](https://github.com/a-hakim/senangwebs-gallery)**: Modern & responsive modal image (lightbox) library.
 - **[senangwebs-herd](https://github.com/a-hakim/senangwebs-herd)**: Manage multiple HTML files within a single page using tabs and lazy-loaded iframes.
-- **[senangwebs-index](https://github.com/a-hakim/senangwebs-index)**: Transforme JSON data into searchable, paginated HTML views.
+- **[senangwebs-index](https://github.com/a-hakim/senangwebs-index)**: Transform JSON data into searchable, paginated HTML views.
 - **[senangwebs-jot](https://github.com/a-hakim/senangwebs-jot)**: Simple tool to copy text from HTML elements with a single click.
 - **[senangwebs-kiln](https://github.com/a-hakim/senangwebs-kiln)**: Lightweight, powerful 3D modeling editor library.
 - **[senangwebs-loading](https://github.com/a-hakim/senangwebs-loading)**: Customizable loading screens for web applications.

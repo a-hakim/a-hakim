@@ -17,7 +17,7 @@ I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** a
 Here are some projects I've developed and maintain:
 ### Web Library
 - **[senangwebs-animations](https://github.com/a-hakim/senangwebs-animations)**: Smooth, customizable animations for HTML elements on scrolling.
-- **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of e-commerce functionality through HTML attributes.
+- **[senangwebs-buy](https://github.com/a-hakim/senangwebs-buy)**: Easy implementation of WhatsApp based e-commerce functionality through HTML attributes.
 - **[senangwebs-chatbot](https://github.com/a-hakim/senangwebs-chatbot)**: Integrating a customizable chatbot into your website.
 - **[senangwebs-deck](https://github.com/a-hakim/senangwebs-deck)**: Web-based presentations with multiple input formats (HTML, Markdown, JSON).
 - **[senangwebs-epoch](https://github.com/a-hakim/senangwebs-epoch)**: Easy creation dynamic countdown timers and time displays.

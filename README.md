@@ -57,6 +57,7 @@ Here are some projects I've developed and maintain:
 | [grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)     | Edit component code using the Monaco editor.                          |
 | [grapesjs-script-monaco-editor](https://github.com/a-hakim/grapesjs-script-monaco-editor)           | Edit or attach scripts to selected components.                        |
 | [grapesjs-custom-code-monaco-editor](https://github.com/a-hakim/grapesjs-custom-code-monaco-editor) | Embed custom code into components using Monaco editor.                |
+| [grapesjs-ai-agent](https://github.com/a-hakim/grapesjs-ai-agent)                                   | AI-powered chatbot interface for component modification assistance.   |
 | [senangwebs-aframe-editor](https://github.com/a-hakim/senangwebs-aframe-editor)                     | Customized webverse editor for SenangWebs based on A-Frame inspector. |
 
 ### Custom Project

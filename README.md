@@ -33,7 +33,7 @@ Here are some projects I've developed and maintain:
 | [senangwebs-modals](https://github.com/a-hakim/senangwebs-modals)         | Create and customize modal dialogs using HTML data attributes.                          |
 | [senangwebs-notices](https://github.com/a-hakim/senangwebs-notices)       | Customize native browser dialogs (alert, confirm, prompt).                              |
 | [senangwebs-one](https://github.com/a-hakim/senangwebs-one)               | Web-based code editor and live previewer (like Glitch/CodePen).                         |
-| [senangwebs-photobooth](https://github.com/a-hakim/senangwebs-photobooth) | Lightweight client-side photo editing.                                                  |
+| [senangwebs-photobooth](https://github.com/a-hakim/senangwebs-photobooth) | A browser-based image editor featuring layers, drawing tools, and filters.              |
 | [senangwebs-quiz](https://github.com/a-hakim/senangwebs-quiz)             | Interactive quizzes with multiple question types.                                       |
 | [senangwebs-roll](https://github.com/a-hakim/senangwebs-roll)             | Mobile-like media rolls (Reels/Shorts style).                                           |
 | [senangwebs-story](https://github.com/a-hakim/senangwebs-story)           | Visual novel-style story engine with typewriter & dialogue system.                      |

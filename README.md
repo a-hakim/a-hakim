@@ -54,6 +54,7 @@ Here are some projects I've developed and maintain:
 | Plugin                                                                                              | Description                                                           |
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | [grapesjs-alpinejs](https://github.com/a-hakim/grapesjs-alpinejs)                                   | GrapesJS plugin integrating Alpine.js directives.                     |
+| [grapesjs-animations](https://github.com/a-hakim/grapesjs-animations)                               | GrapesJS plugin provide smooth, customizable scroll animations        |
 | [grapesjs-component-monaco-editor](https://github.com/a-hakim/grapesjs-component-monaco-editor)     | Edit component code using the Monaco editor.                          |
 | [grapesjs-script-monaco-editor](https://github.com/a-hakim/grapesjs-script-monaco-editor)           | Edit or attach scripts to selected components.                        |
 | [grapesjs-custom-code-monaco-editor](https://github.com/a-hakim/grapesjs-custom-code-monaco-editor) | Embed custom code into components using Monaco editor.                |

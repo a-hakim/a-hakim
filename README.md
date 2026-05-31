@@ -3,7 +3,7 @@
 **WebXR/VR/AR Enthusiast** | **Full-Stack Dev** | **PaaS Builder**
 
 I'm a software engineer passionate about **Web-based Virtual Reality (WebVR)** and **Augmented Reality (WebAR)** experiences! With a background in **Mechanical Engineering**.
-- 🛠 Founder of [SenangWebs](https://use.senangwebs.com/) & [KadKahwinDigital.my](https://hub.kadkahwindigital.my/)
+- 🛠 Creator of [SenangWebs](https://use.senangwebs.com/) & [KadKahwinDigital.my](https://hub.kadkahwindigital.my/)
 - 🏆 Winner of multiple awards in innovation and tech 💡
 - 🎮 NASA Space Apps Challenge Instructor
 - 🧑‍🏫 2x TEDx Speaker

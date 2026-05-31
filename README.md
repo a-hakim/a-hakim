@@ -43,6 +43,7 @@ Here are some projects I've developed and maintain:
 | [senangwebs-whiteboard](https://github.com/a-hakim/senangwebs-whiteboard) | Digital whiteboard & vector drawing library.                                            |
 | [senangwebs-xperience](https://github.com/a-hakim/senangwebs-xperience)   | Grid-based interactive game-like web experiences.                                       |
 | [senangwebs-yield](https://github.com/a-hakim/senangwebs-yield)           | Basic data visualizations using HTML, CSS, SVG.                                         |
+| [senangwebs-zero](https://github.com/a-hakim/senangwebs-zero)             | Guided product tours / onboarding walkthroughs.                                         |
 
 ### Game
 | Project                                                             | Description                                   |

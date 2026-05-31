@@ -79,6 +79,11 @@ Here are some projects I've developed and maintain:
 - **[SenangStart](https://senangstart.com/)** - UI Components Library
   - Comprehensive Tailwind CSS component library for web designers
   - Pre-built, customizable components for stunning user interfaces
+ 
+- **[SenangLab](https://www.senanglab.com/)** - Responsive design testing & QA toolkit
+  - Throttled scroll-sync, click replication, and text selection sync across all devices
+  - Scan tags, calculate SEO scores, and export AI prompts to fix issues.
+  - Test contrast scores and simulate color blindness instantly.
 
 - **[AlamXR](https://www.alamxr.com/)** - Immersive Learning Platform
   - Browser-based VR/AR educational modules
@@ -90,10 +95,13 @@ Here are some projects I've developed and maintain:
   - Tools for crafting winning business plans
   - Variety of analysis documents
 
-- **[QHeat](https://www.qheatapp.com/)** - Heat Transfer App
+- **[QHeat](https://www.qheatapp.com/)** - Heat Transfer Engineering
   - Calculation workflows for complex problem-solving
   - Equation manipulation capabilities
-  - Preset values for quick calculations
+ 
+- **[Neurakal](https://web.neurakal.com/)** - Automated Intelligent Discussions
+  - Surfacing insights and blind spots you'd never catch alone
+  - Take the debate further and step into a live simulation
 ---
 ## 💬 Connect With Me
 Let's chat about WebVR, AR, AI, or even Mechanical Engineering!

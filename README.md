@@ -44,6 +44,12 @@ Here are some projects I've developed and maintain:
 | [senangwebs-xperience](https://github.com/a-hakim/senangwebs-xperience)   | Grid-based interactive game-like web experiences.                                       |
 | [senangwebs-yield](https://github.com/a-hakim/senangwebs-yield)           | Basic data visualizations using HTML, CSS, SVG.                                         |
 | [senangwebs-zero](https://github.com/a-hakim/senangwebs-zero)             | Guided product tours / onboarding walkthroughs.                                         |
+| [@bookklik/senangstart-icons](https://github.com/bookklik-technologies/senangstart-icons)     | Curated Starter icons designed for web projects.                    |
+| [@bookklik/senangstart-css](https://github.com/bookklik-technologies/senangstart-css)         | Fluent Style Utilities for Humans and AI.                           |
+| [@bookklik/senangstart-actions](https://github.com/bookklik-technologies/senangstart-actions) | Declarative UI framework for humans and AI agents.                  |
+| [@bookklik/ezynota](https://github.com/bookklik-technologies/ezynota)     | Block-style editor.                                                                     |
+| [@bookklik/ezyreka](https://github.com/bookklik-technologies/ezyreka)     | Canva-style design editor.                                                              |
+| [@bookklik/ezygrid](https://github.com/bookklik-technologies/ezygrid)     | Spreadsheet & data-grid editor.                                                         |
 
 ### Game
 | Project                                                             | Description                                   |

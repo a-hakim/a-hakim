@@ -50,6 +50,9 @@ Here are some projects I've developed and maintain:
 | [@bookklik/ezynota](https://github.com/bookklik-technologies/ezynota)     | Block-style editor.                                                                     |
 | [@bookklik/ezyreka](https://github.com/bookklik-technologies/ezyreka)     | Canva-style design editor.                                                              |
 | [@bookklik/ezygrid](https://github.com/bookklik-technologies/ezygrid)     | Spreadsheet & data-grid editor.                                                         |
+| **PiVo Ortho** | A local-first, browser-based 3D editor for low-poly modeling, texturing, and animation.|
+| **PiVo Plate** | A local-first, browser-based tile-to-3D modeling editor. |
+| **PiVo Craft** | A local-first, browser-based pixel art and animation editor for digital creators.|
 
 ### Game
 | Project                                                             | Description                                   |
